@@ -1,0 +1,6 @@
+numpy==1.20.2
+panda3d==1.10.9
+Pillow==8.2.0
+pyperclip==1.8.2
+screeninfo==0.6.7
+ursina==3.5.0
